@@ -6,7 +6,7 @@ This repository contains short PyTorch code for various generative models.
 - [ ] [Generative Adversarial Network](https://arxiv.org/abs/1406.2661)
 - [x] [Alternating Back-propagation](https://arxiv.org/abs/1606.08571)
 - [ ] [Transformer](https://arxiv.org/abs/1706.03762)
-- [ ] [Short-Run Energy-Based Model](https://arxiv.org/abs/1904.09770)
+- [x] [Short-Run Energy-Based Model](https://arxiv.org/abs/1904.09770)
 - [x] [Denoising Diffusion Probabilistic Model](https://arxiv.org/abs/2006.11239)
 - [ ] [Flow Matching](https://arxiv.org/abs/2210.02747)
 
